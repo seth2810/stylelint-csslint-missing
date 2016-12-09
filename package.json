@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-csslint-missing",
+  "version": "0.0.1",
+  "description": "Set of missing csslint rules for stylelint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint",
+    "csslint",
+    "missing"
+  ],
+  "author": "Roman Gafurov <gafurov.roma89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "postcss-selector-parser": "2.2.2",
+    "postcss-value-parser": "3.3.0",
+    "stylelint": "7.6.0"
+  }
+}
